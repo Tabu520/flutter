@@ -3,8 +3,10 @@
     "dart.previewFlutterUiGuidesCustomTracking": true,
     "dart.enableCompletionCommitCharacters": true,
     "[dart]": {
-        "editor.tabSize": 4,
+        "editor.tabSize": 2,
         "editor.insertSpaces": false,
         "editor.detectIndentation": false
-    }
+    },
+    "editor.fontFamily": "Fira Code, monospace",
+    "editor.fontLigatures": true,
 }
