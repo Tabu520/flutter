@@ -1,0 +1,8 @@
+{
+    "prettier.tabWidth": 4,
+    "editor.fontSize": 15,
+    "dart.daemonPort": 9081,
+    "files.autoSave": "afterDelay",
+    "editor.insertSpaces": false,
+    "prettier.useTabs": true
+}
