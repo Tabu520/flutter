@@ -1,8 +1,12 @@
 {
-    "prettier.tabWidth": 4,
-    "editor.fontSize": 15,
-    "dart.daemonPort": 9081,
-    "files.autoSave": "afterDelay",
-    "editor.insertSpaces": false,
-    "prettier.useTabs": true
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.enableCompletionCommitCharacters": true,
+    "[dart]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": false,
+        "editor.detectIndentation": false
+    },
+    "editor.fontFamily": "Fira Code, monospace",
+    "editor.fontLigatures": true,
 }
